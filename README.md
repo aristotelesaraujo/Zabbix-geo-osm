@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 zabbix-geolocation
 ==================
 
@@ -170,3 +171,9 @@ aristoteles.araujo @ gmail.com
 Translation: 
 André Déo - Zabbix-Brasil
 13/11/2013
+=======
+Zabbix-geo-osm
+==============
+
+Plugin de geolocalização com Open Street Maps
+>>>>>>> 81743b71bcb0e0cb044f1d3548a608a4c13c1112
