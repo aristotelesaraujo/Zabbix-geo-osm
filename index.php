@@ -127,7 +127,7 @@ window.onload = function(){
 
 				<?php
 				echo "<select id='camada'>";
-				echo "<option value=''>Escolha a camada</option>";
+				echo "<option value=''>Escolha a camada desejada</option>";
 			        $ponteiro = fopen ("layers.conf","r");
        				while (!feof ($ponteiro)) {
              			  $linha = fgets($ponteiro,4096);
